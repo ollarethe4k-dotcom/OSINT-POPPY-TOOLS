@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🛠️ OSINT-POPPY-TOOLS
+#OSINT-POPPY-TOOLS
 
 [![Target OS](https://img.shields.io/badge/Target_OS-Windows%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
