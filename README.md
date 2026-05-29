@@ -24,59 +24,37 @@
 ## 📌 Features Attuali (Versione Base)
 
 * **Architettura Multi-Thread:** Esegue interrogazioni rapide e concorrenti per massimizzare l'efficienza ed evitare blocchi[span_0](start_span)[span_0](end_span).
+
 * **Categorizzazione Intelligente:** Suddivide e raggruppa automaticamente i risultati in base alla tipologia (es. *Social Media, Code/Data/Leaks, News, Blog*)[span_1](start_span)[span_1](end_span).
+
 * **Email Harvester Automatico:** Analizza gli snippet dei risultati in tempo reale per estrarre gli indirizzi email associati al target[span_2](start_span)[span_2](end_span).
+
 * **Deep Dorking Query:** Rotazione di query prefigurate mirate a profili di intelligence pubblici e leak dump[span_3](start_span)[span_3](end_span).
+
 * **Interfaccia CLI Pulita:** Visualizzazione da terminale intuitiva con spinner di caricamento e log colorati tramite codici ANSI[span_4](start_span)[span_4](end_span).
 
 ---
 
 ## 🔮 Future Features (In Arrivo)
 
-Stiamo lavorando per espandere le capacità dello strumento. Ecco la roadmap dei prossimi moduli in via di sviluppo:
+Stiamo lavorando per espandere le capacità dello strumento. 
+
+Ecco la roadmap dei prossimi moduli in via di sviluppo:
+
 - [ ] **Integrazione API Esterne:** Supporto nativo a servizi di intelligence come Shodan, Hunter.io e VirusTotal.
+
 - [ ] **Esportazione dei Report:** Possibilità di salvare i risultati della scansione in formati strutturati come `JSON`, `CSV` o report grafici in `PDF`.
+
 - [ ] **Scansione Target Avanzata:** Modulo specifico per l'esecuzione di reverse lookup tramite numeri di telefono, indirizzi IP e username (Social Media Cross-Hunting).
-- [ ] **Web Scraping Diretto:** Analisi approfondita ed estrazione del testo direttamente dalle pagine web individuate, superando il limite dei soli snippet dei motori di ricerca.
+
+- [ ] **Web Scraping Diretto:
+** Analisi approfondita ed estrazione del testo direttamente dalle pagine web individuate, superando il limite dei soli snippet dei motori di ricerca.
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisiti
-Assicurati di aver installato Python 3.7+ sul tuo sistema operativo[span_5](start_span)[span_5](end_span).
-
-### Installazione
-
-1. Clona la repository sul tuo computer:
-
-```bash
-   
-git clone 
-
-[https://github.com/ollarethe4k-dotcom/OSINT-POPPY-TOOLS.git](https://github.com/ollarethe4k-dotcom/OSINT-POPPY-TOOLS.git)
-
-cd OSINT-POPPY-TOOLS
-
-```
-
-2. Installa le dipendenze richieste tramite `pip`:
-
-```bash
-
-pip install -r requirements.txt
-
-'''
-
-3. Utilizzo
-
-Avvia lo script principale eseguendo il file poppy.py dal terminale:
-    
-python poppy.py
-
-'''
-
 📝 License
-Distribuito sotto Licenza MIT. Vedi il file LICENSE all'interno della repository per ulteriori informazioni.
+Distribuito sotto Licenza MIT. 
+
+Vedi il file LICENSE all'interno della repository per ulteriori informazioni.
 
 
