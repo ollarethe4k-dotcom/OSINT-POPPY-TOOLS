@@ -51,7 +51,7 @@ Assicurati di aver installato Python 3.7+ sul tuo sistema operativo[span_5](star
 ```bash
    git clone [https://github.com/ollarethe4k-dotcom/OSINT-POPPY-TOOLS.git](https://github.com/ollarethe4k-dotcom/OSINT-POPPY-TOOLS.git)
    cd OSINT-POPPY-TOOLS
-'''
+```
 2. Installa le dipendenze richieste tramite `pip`:
    ```bash
    pip install -r requirements.txt
