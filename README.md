@@ -37,3 +37,7 @@ Make sure you have Python 3.7+ installed.
 ```bash
    git clone [https://github.com/ollarethe4k-dotcom/OSINT-POPPY-TOOLS.git](https://github.com/ollarethe4k-dotcom/OSINT-POPPY-TOOLS.git)
    cd OSINT-POPPY-TOOLS
+2. Install the required dependencies:
+```bash
+      pip install -r requirements.txt
+
