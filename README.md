@@ -56,4 +56,12 @@ Assicurati di aver installato Python 3.7+ sul tuo sistema operativo[span_5](star
    ```bash
    pip install -r requirements.txt
 ```
+3. Utilizzo
+Avvia lo script principale eseguendo il file poppy.py dal terminale:
+    ```bash 
+   python poppy.py
+```
+📝 License
+Distribuito sotto Licenza MIT. Vedi il file LICENSE all'interno della repository per ulteriori informazioni.
+
 
