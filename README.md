@@ -58,7 +58,7 @@ Assicurati di aver installato Python 3.7+ sul tuo sistema operativo[span_5](star
 ```
 3. Utilizzo
 Avvia lo script principale eseguendo il file poppy.py dal terminale:
-    ```bash 
+    
    python poppy.py
 ```
 📝 License
