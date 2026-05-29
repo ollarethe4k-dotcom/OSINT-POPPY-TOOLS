@@ -66,7 +66,7 @@ cd OSINT-POPPY-TOOLS
 
 pip install -r requirements.txt
 
-```
+'''
 
 3. Utilizzo
 
@@ -74,7 +74,7 @@ Avvia lo script principale eseguendo il file poppy.py dal terminale:
     
 python poppy.py
 
-''c
+'''
 
 📝 License
 Distribuito sotto Licenza MIT. Vedi il file LICENSE all'interno della repository per ulteriori informazioni.
