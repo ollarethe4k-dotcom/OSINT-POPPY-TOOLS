@@ -47,20 +47,28 @@ Stiamo lavorando per espandere le capacità dello strumento. Ecco la roadmap dei
 Assicurati di aver installato Python 3.7+ sul tuo sistema operativo[span_5](start_span)[span_5](end_span).
 
 ### Installazione
+
 1. Clona la repository sul tuo computer:
 ```bash
    git clone [https://github.com/ollarethe4k-dotcom/OSINT-POPPY-TOOLS.git](https://github.com/ollarethe4k-dotcom/OSINT-POPPY-TOOLS.git)
-   cd OSINT-POPPY-TOOLS
+cd OSINT-POPPY-TOOLS
 ```
+
 2. Installa le dipendenze richieste tramite `pip`:
-   ```bash
-   pip install -r requirements.txt
+
+```bash
+
+pip install -r requirements.txt
+
 ```
+
 3. Utilizzo
 Avvia lo script principale eseguendo il file poppy.py dal terminale:
     
    python poppy.py
+
 ```
+
 📝 License
 Distribuito sotto Licenza MIT. Vedi il file LICENSE all'interno della repository per ulteriori informazioni.
 
